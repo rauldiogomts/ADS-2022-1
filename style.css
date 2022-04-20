@@ -1,0 +1,26 @@
+body {
+    position: absolute;
+    left: 270px;
+    top: 200px;
+    background-color: #423f3f;
+    border-style:groove;
+    border-color: aqua;
+}
+
+#input {
+    background-color: rgb(58, 65, 66);
+    color: rgb(108, 214, 170);
+}
+
+#botao {
+    background-color: rgb(58, 65, 66);
+    color: rgb(108, 214, 170);
+    position: absolute;
+    left: 421px;
+    top: 25px;
+}
+
+#num {
+    background-color: rgb(58, 65, 66);
+    color: rgb(108, 214, 170);
+}
